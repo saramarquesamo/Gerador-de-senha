@@ -83,7 +83,7 @@ body {
   transition: transform 0.5s;
 }
 
-.password :hover {
+.password:hover {
     transform: scale(1.05);
 }
 

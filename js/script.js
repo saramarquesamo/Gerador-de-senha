@@ -31,5 +31,5 @@ function generatePassword() {
 
 function copyPassword() {
     alert("Senha copiada com sucesso!")
-    navigator.clipboard.writeText.apply(novaSenha);
+    navigator.clipboard.writeText(novaSenha);
 }
